@@ -12,7 +12,7 @@ using namespace std;
 
 int main(){
 	
-	cout<< <<endl;
+	cout<< "empesando"<<endl;
 	//cout<< <<"\n";
 
 	}
